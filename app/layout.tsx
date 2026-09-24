@@ -5,7 +5,11 @@ export const metadata: Metadata = {
   title: "Hy.C 's Reading room",
   description: "Hy.C 閱覽室",
   icons: {
-    icon: "/favicon.ico",
+    icon: {
+      url: "https://hyc.eshachem.com/wp-content/uploads/2026/06/cropped-Hy.C-4-300x300.png",
+      type: "image/png",
+      sizes: "300x300",
+    },
   },
 };
 
