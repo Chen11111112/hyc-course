@@ -75,8 +75,7 @@ export default function ReadingRoom() {
       cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/05/S__29351976-768x432.jpg',
       category: 'App Dev',
       description: 'Build mobile apps that run on real devices, starting with Swift for native iOS and React Native with Expo for cross-platform apps. A Flutter section is coming soon. Aimed at beginners and students who want to turn their own ideas into working phone apps.',
-      // TODO: temporary link to the Expo page; replace with the public URL of the 「📱 App 開發」 book.
-      link: 'https://eminent-glider-8c3.notion.site/React-Native-Expo-3359def5443d80d5a9e0d34f4bedcf0a',
+      link: 'https://eminent-glider-8c3.notion.site/App-3f69def5443d8110b789fd462c44d6d3',
       year: '2025/12/6',
       author: 'Hung-Yu Chen'
     },
