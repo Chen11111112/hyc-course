@@ -27,7 +27,7 @@ export default function ReadingRoom() {
     {
       id: 1,
       title: 'Next.js Development',
-      subtitle: 'Next.js 開發',
+      subtitle: 'Next.js Development',
       cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/05/7F530727-694E-4797-8842-01D3550DE2EE-1-2048x1152.jpg',
       category: 'Next.js',
       description: 'Start from React fundamentals and work through the Basic, Pro and Plus chapters, then add TypeScript and Zod for type-safe, validated code. The book finishes with the Next.js App Router so you can build and ship full-stack web apps. Written for beginners and students who know a little HTML and want a guided path into modern web development.',
@@ -60,7 +60,7 @@ export default function ReadingRoom() {
     {
       id: 4,
       title: 'Backend & Databases',
-      subtitle: '後端與資料庫',
+      subtitle: 'Backend & Databases',
       cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/05/S__29351972_0-1-768x1365.jpg',
       category: 'Backend Dev',
       description: 'Learn how the server side of an application works, starting with SQL and MySQL database design. You will then build web services with Flask, Django, Spring Boot and PHP, and see how each framework approaches the same problems. A practical next step for students who can write basic code and want to build complete, data-driven projects.',
@@ -71,7 +71,7 @@ export default function ReadingRoom() {
     {
       id: 5,
       title: 'App Development',
-      subtitle: 'App 開發',
+      subtitle: 'App Development',
       cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/05/S__29351976-768x432.jpg',
       category: 'App Dev',
       description: 'Build mobile apps that run on real devices, starting with Swift for native iOS and React Native with Expo for cross-platform apps. A Flutter section is coming soon. Aimed at beginners and students who want to turn their own ideas into working phone apps.',
@@ -82,7 +82,7 @@ export default function ReadingRoom() {
     {
       id: 6,
       title: 'Project Management & Team Collaboration',
-      subtitle: '專案管理與團隊協作',
+      subtitle: 'Project Management & Team Collaboration',
       cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/09/S__38961155.jpg',
       category: 'Management',
       description: 'Learn how software teams plan, build and deliver projects together. The book covers PMP project management fundamentals, GitLab workflows, software testing, the Definition of Done and the Scrum framework. Written for students preparing for team projects, hackathons or their first engineering role.',
@@ -190,7 +190,7 @@ export default function ReadingRoom() {
         )}
       </div>
 
-      {/* 書籍的 Modal 詳情 */}
+      {/* Book detail modal */}
       {selectedBook && (
         <div className="modal-overlay" onClick={() => setSelectedBook(null)}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
