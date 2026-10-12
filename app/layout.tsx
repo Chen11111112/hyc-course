@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Hy.C 's Reading room",
-  description: "Hy.C 閱覽室",
+  description: "Hy.C's Reading Room",
   icons: {
     icon: {
       url: "https://hyc.eshachem.com/wp-content/uploads/2026/06/cropped-Hy.C-4-300x300.png",
