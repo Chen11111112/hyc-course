@@ -89,6 +89,17 @@ export default function ReadingRoom() {
       link: 'https://eminent-glider-8c3.notion.site/Swift-PM-SpringBoot-2c19def5443d8008ab47c963b63ec8a2',
       year: '2026/8',
       author: 'Hung-Yu Chen'
+    },
+    {
+      id: 7,
+      title: 'High School Mathematics',
+      subtitle: 'Math A practice tests & solutions',
+      cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/05/6D4640C2-5207-495E-A3F0-19CFA80B796E-768x768.jpg',
+      category: 'High School Mathematics',
+      description: 'Digital copies and handwritten detailed solutions for High School Math A practice tests.',
+      link: 'https://eminent-glider-8c3.notion.site/3cb9def5443d804882e3e4e125207995',
+      year: '2026/8/29',
+      author: 'Hung-Yu Chen'
     }
   ];
 
