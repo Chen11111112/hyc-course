@@ -69,6 +69,17 @@ export default function ReadingRoom() {
       author: 'Hung-Yu Chen'
     },
     {
+      id: 6,
+      title: 'Management & Scrum',
+      subtitle: 'PMP, Scrum, GitLab & Testing',
+      cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/09/S__38961155.jpg',
+      category: 'Project Management',
+      description: 'Learn how software teams plan, build and deliver projects together. The book covers PMP project management fundamentals, GitLab workflows, software testing, the Definition of Done and the Scrum framework. Written for students preparing for team projects, hackathons or their first engineering role.',
+      link: 'https://eminent-glider-8c3.notion.site/Swift-PM-SpringBoot-2c19def5443d8008ab47c963b63ec8a2',
+      year: '2026/8',
+      author: 'Hung-Yu Chen'
+    },
+    {
       id: 5,
       title: 'App Development',
       subtitle: 'Swift & React Native Expo',
@@ -77,17 +88,6 @@ export default function ReadingRoom() {
       description: 'Build mobile apps that run on real devices, starting with Swift for native iOS and React Native with Expo for cross-platform apps. A Flutter section is coming soon. Aimed at beginners and students who want to turn their own ideas into working phone apps.',
       link: 'https://eminent-glider-8c3.notion.site/App-3f69def5443d8110b789fd462c44d6d3',
       year: '2025/12/6',
-      author: 'Hung-Yu Chen'
-    },
-    {
-      id: 6,
-      title: 'Project Management',
-      subtitle: 'PMP, Scrum, GitLab & Testing',
-      cover: 'https://hyc.eshachem.com/wp-content/uploads/2026/09/S__38961155.jpg',
-      category: 'Project Management',
-      description: 'Learn how software teams plan, build and deliver projects together. The book covers PMP project management fundamentals, GitLab workflows, software testing, the Definition of Done and the Scrum framework. Written for students preparing for team projects, hackathons or their first engineering role.',
-      link: 'https://eminent-glider-8c3.notion.site/Swift-PM-SpringBoot-2c19def5443d8008ab47c963b63ec8a2',
-      year: '2026/8',
       author: 'Hung-Yu Chen'
     },
     {
